@@ -13,4 +13,4 @@ No dataset também está incluído o gene que o <i>Primer</i> tem como alvo, sen
 
 ### Uso
 
-Dataset foi criado para a pesquisa de trabalho de conclusão de curso do curso de Graduação em Medicina Veterinária.
+Dataset foi criado para a pesquisa de trabalho de conclusão de curso na graduação em Medicina Veterinária.
