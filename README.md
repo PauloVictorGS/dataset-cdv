@@ -1,7 +1,7 @@
 # dataset-cdv
 ### Informações
 
-Dataset criado a partir do levantamento de sequências genicas no banco de dados Genbank.
+Dataset criado a partir do levantamento de sequências gênicas no banco de dados Genbank.
 
 Informações contidas:
 - País de ocorrência
